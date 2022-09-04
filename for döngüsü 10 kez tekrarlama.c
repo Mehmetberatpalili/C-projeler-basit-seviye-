@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*while(koşul){
-    // çalıştırılacak kodlar
+/*while(koÅŸul){
+    // Ã§alÄ±ÅŸtÄ±rÄ±lacak kodlar
 }
 */
 int main(){
